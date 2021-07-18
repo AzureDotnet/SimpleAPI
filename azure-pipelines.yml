@@ -14,14 +14,7 @@ variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
-  # steps:
-    
-  #   - task: DotNetCoreCLI@2
-  #     inputs:
-  #       command: test
-  #       projects: '**/*Tests/*.csproj'
-  #       arguments: '--configuration $(buildConfiguration)'
-
+ 
 steps:
 - task: NuGetToolInstaller@1
 
