@@ -11,21 +11,17 @@ namespace SimpleAPI.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        public  WeatherForecastController()
-        {
+      public WeatherForecastController()
+      {
 
-        }
+      }
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracin", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
          
-        private readonly ILogger<WeatherForecastController> _logger;
-
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
-        {
-            _logger = logger;
-        }
+       
+        
 
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
@@ -42,7 +38,7 @@ namespace SimpleAPI.Controllers
          [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "sandeep kara";
+            return "sandeep karan";
         }
 
     }
