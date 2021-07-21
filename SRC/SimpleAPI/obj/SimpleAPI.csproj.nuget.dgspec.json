@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\SimpleAPI.csproj": {}
+    "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {}
   },
   "projects": {
-    "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\SimpleAPI.csproj": {
+    "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\SimpleAPI.csproj",
+        "projectUniqueName": "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
         "projectName": "SimpleAPI",
-        "projectPath": "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\SimpleAPI.csproj",
+        "projectPath": "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\obj\\",
+        "outputPath": "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

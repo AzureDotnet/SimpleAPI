@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vfcV7khnArmf42SUgbHgqG/lZlVhigeRD7fyTKAbwZvg2JixqM9iyy6sEnK3Sh8f7ywYoVluVOywgHlFDv6gQ==",
+  "dgSpecHash": "pmqtYxY4Y3vys+0S2UJ0dhTh2qeHa/PlBnh0ynJDvy+pWqgJh8Bq4o/OJUffZgTaghf0dKHnaMjL6dAb84qN5A==",
   "success": true,
-  "projectFilePath": "D:\\CI-CD\\SimpleAPI\\SRC\\SimpleAPI\\SimpleAPI.csproj",
+  "projectFilePath": "D:\\CI-CD\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
