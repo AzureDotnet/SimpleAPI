@@ -17,7 +17,7 @@ namespace SimpleAPI.Controllers
       }
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracin", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "sandeep", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
          
        
